@@ -9,13 +9,12 @@ O projeto foi construído utilizando apenas **HTML5**, **CSS3** e **JavaScript**
 ## 🚀 Demonstração
 
 🔗 **Acesse o projeto:**
-> Adicione aqui o link do GitHub Pages
+https://walissonpatrickhelmer.github.io/Personal/
 
 ---
 
 ## 📸 Preview
 
-> Adicione uma imagem ou GIF do projeto aqui.
 
 ```md
 /assets/images/preview.png
