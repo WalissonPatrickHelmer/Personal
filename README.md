@@ -15,10 +15,10 @@ https://walissonpatrickhelmer.github.io/Personal/
 
 ## 📸 Preview
 
+<img src="imagens_preview/preview.png" width="100%" alt="Preview do projeto">
 
-```md
-![Prévia do projeto](imagens_preview/preview.png)
-```
+---
+
 
 ---
 
