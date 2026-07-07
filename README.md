@@ -20,6 +20,12 @@ https://walissonpatrickhelmer.github.io/Personal/
 ---
 
 
+
+<img src="imagens_preview/preview2.png" width="100%" alt="Preview do projeto">
+
+---
+
+
 ---
 
 ## ✨ Funcionalidades
