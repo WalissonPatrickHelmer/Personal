@@ -17,7 +17,7 @@ https://walissonpatrickhelmer.github.io/Personal/
 
 
 ```md
-![Prévia do projeto](ativo/imagens/preview.png)
+![Prévia do projeto](ativos/imagens/preview.png)
 ```
 
 ---
